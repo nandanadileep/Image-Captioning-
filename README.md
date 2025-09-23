@@ -9,5 +9,3 @@ The model uses the Flickr8k dataset, which contains:
 5 captions per image.
 The dataset is downloaded using the kagglehub package.
 
-License
-This project is for educational purposes.
